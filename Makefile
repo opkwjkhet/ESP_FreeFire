@@ -1,4 +1,3 @@
-//THEOS_DEVICE_IP = 127.0.0.1 -p 2222 # install to device from pc
 
 ARCHS = arm64
 TARGET = iphone:clang:latest  # ✅ ใช้ latest SDK + iOS 14.0+
